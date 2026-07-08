@@ -1,1 +1,4 @@
 *.pbix.autorecover
+*.tmp
+Thumbs.db
+.DS_Store
