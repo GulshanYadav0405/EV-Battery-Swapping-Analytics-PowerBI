@@ -151,7 +151,7 @@ Provides financial insights for decision makers.
 
 ## Executive Dashboard
 
-![Executive Dashboard](Screenshots/Executive%20Dashboard.png)
+![01_Executive_Dashboard.png](Screenshots/Executive%20Dashboard.png)
 
 ---
 
@@ -187,10 +187,10 @@ EV-Battery-Swapping-Analytics-PowerBI
 │   └── README.md
 │
 ├── Screenshots
-│   ├── Executive Dashboard.png
-│   ├── Operations Dashboard.png
-│   ├── IoT & Battery_Analytics.png
-│   ├── Revenue Analytics.png
+│   ├── 01_Executive_Dashboard.png
+│   ├── 02_Operations_Dashboard.png
+│   ├── 03_Battery_IoT_Analytics.png
+│   ├── 04_Revenue_Analytics.png
 │   └── README.md
 │
 └── README.md
