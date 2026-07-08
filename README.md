@@ -151,25 +151,25 @@ Provides financial insights for decision makers.
 
 ## Executive Dashboard
 
-![01_Executive_Dashboard.png](Screenshots/Executive%20Dashboard.png)
+![Executive Dashboard](Screenshots/01_Executive_Dashboard.png)
 
 ---
 
 ## Operations Dashboard
 
-![Operations Dashboard](Screenshots/Operations%20Dashboard.png)
+![Operations Dashboard](Screenshots/02_Operations_Dashboard.png)
 
 ---
 
 ## Battery & IoT Analytics
 
-![Battery & IoT](Screenshots/IoT%20%26%20Battery_Analytics.png)
+![Battery & IoT Analytics](Screenshots/03_Battery_IoT_Analytics.png)
 
 ---
 
 ## Revenue Analytics
 
-![Revenue Analytics](Screenshots/Revenue%20Analytics.png)
+![Revenue Analytics](Screenshots/04_Revenue_Analytics.png)
 
 ---
 
